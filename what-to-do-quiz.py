@@ -1,3 +1,6 @@
+import io
+import sys
+
 def tourist_attraction_quiz():
     print("Welcome to the Ottawa Tourist Attraction Quiz!")
 
