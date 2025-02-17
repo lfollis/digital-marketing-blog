@@ -394,3 +394,6 @@ def shopping_quiz():
             print("Invalid choice. Please enter a number between 1 and 11.")
       except ValueError:
         print("Invalid input. Please enter a number.")
+
+if __name__ == "__main__":
+   tourist_attraction_quiz()
